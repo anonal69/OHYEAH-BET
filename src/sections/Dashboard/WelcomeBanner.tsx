@@ -19,7 +19,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div className="image-container">
-        <Image src=".\IMG_1794.png" alt="OHYEAH Banner" />
+        <Image src="/OHYEAHbet.png" alt="" />
       </div>
       <div className="button-container">
         <Buttons>
